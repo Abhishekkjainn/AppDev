@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
       home: Material(
         child: Center(
           child: Container(
-            child: Text("This is my First App.."),
+            child: Text("This is my fFirst App.."),
           ),
         ),
       ),
